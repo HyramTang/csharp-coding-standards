@@ -2,8 +2,7 @@
 
 
 Document Version 1.15  
-March 2007   
-​
+March 2007
 
 Copyright @ Lance Hunt 2007  
 All Rights Reserved  
