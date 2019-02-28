@@ -1,0 +1,10 @@
+{
+    "root": "./",
+    "structure":{
+        "readme":"README.md"
+    },
+    "title": "",
+    "pdf": {
+        "fontFamily": "Arial,Microsoft YaHei"
+    }
+}
