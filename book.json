@@ -1,6 +1,7 @@
 {
     "root": "./",
     "title": "",
+    "language": "zh-hans",
     "pdf": {
         "fontFamily": "Arial,Microsoft YaHei"
     }
