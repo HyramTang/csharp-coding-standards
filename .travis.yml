@@ -8,7 +8,7 @@ cache:
 
 # S: Build Lifecycle
 before_script: 
-  - sudo npm install gitbook-cli -g
+  - npm install gitbook-cli -g
 
 script: 
   - gitbook build
