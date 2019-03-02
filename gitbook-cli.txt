@@ -1,2 +1,0 @@
-$ git server
-$ cp -r _book/* ./docs/ && rm -rf ./_book
