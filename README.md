@@ -1,5 +1,5 @@
 # C\# 编码规范
-![Travis](https://travis-ci.org/HyramTang/csharp-coding-standards.svg?branch=master)
+![Travis](https://travis-ci.com/HyramTang/csharp-coding-standards.svg?branch=master)
 
 Document Version 1.15  
 March 2007
