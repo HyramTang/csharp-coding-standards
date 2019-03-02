@@ -22,6 +22,6 @@ deploy:
   on:
     branch: master
   local-dir: _book #Directory to push to GitHub Pages, defaults to current directory. Can be specified as an absolute path or a relative path from the current directory.
-  keep-history: true
+  keep-history: true #Optional, create incremental commit instead of doing push force, defaults to false
   email: hyram.tang@gmail.com # optional, defaults to "deploy@travis-ci.org"
   name: Hyram # optional, defaults to "Deployment Bot"
