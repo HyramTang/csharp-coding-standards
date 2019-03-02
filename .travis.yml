@@ -17,7 +17,7 @@ script:
 deploy:
   provider: pages # deploy to GitHub Pages
   skip_cleanup: true # don't clean generated site
-  github_token: GITHUB_TOKEN # provide the encrypted token
+  github_token: $GITHUB_TOKEN # provide the encrypted token
   on:
     branch: master
   local-dir: _book #Directory to push to GitHub Pages, defaults to current directory. Can be specified as an absolute path or a relative path from the current directory.
